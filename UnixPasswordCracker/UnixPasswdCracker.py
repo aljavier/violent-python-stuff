@@ -87,7 +87,7 @@ class Cracker(object):
 def help():
 	''' The help of the script'''
 	print """ Usage: {0}  dictionary_file  passwords_file
-	           Example: {0} easy_passwors.txt  copy_passwd.txt""".format(sys.argv[0])
+	           Example: {0} easy_passwors.txt  copy_shadow.txt""".format(sys.argv[0])
 
 # banner
 def banner():

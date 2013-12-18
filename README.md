@@ -13,3 +13,6 @@ Anyway, the purpose is improved, cutomized as much as posible. Also
 good book, you cand buy it on [Amazon](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_1?ie=UTF8&qid=1387387647&sr=8-1&keywords=violent+book "Violent Python").
 
 
+I use Python 2.7 for all the scripts here.
+
+

@@ -69,7 +69,7 @@ class Cracker(object):
 		        print "[*] Cracking Paswword for user: " + user
 			for word in self.dictFile.readlines():
 				word = word.strip('\n')
-				cryptWord = crypt.crypt(word, id_hash+salt+'$')
+				cryptWord = crypt.crypt(word, id_hash+salt)
 				print "Trying password  ==> " + word +  " ==> for user ==> " + user  + "\n"
 				if (cryptWord == cryptPass):
 					self.listCracked.append(user + ":" +  word)

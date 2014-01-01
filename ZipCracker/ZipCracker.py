@@ -5,7 +5,7 @@
 #     All Credit to the Author of      #
 #         Violent Python Book          #
 #                                      #
-#      Adapted by Alix J. Javier       # 
+#      Adapted by A. J. Javier         # 
 #                                      #
 ########################################
 

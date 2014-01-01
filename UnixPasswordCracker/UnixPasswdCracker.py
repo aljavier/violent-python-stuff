@@ -9,7 +9,7 @@
 #    Just support sha-512 right now.  #
 #                                     #
 #                                     #
-#   Adaptation by Alix J. Javier      #
+#   Adaptation by A. J. Javier        #
 #                                     #
 #######################################
 
